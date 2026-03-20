@@ -1,6 +1,11 @@
-# airlinefyi-rb
+# airlinefyi
 
-Ruby client for [AirlineFYI](https://airlinefyi.com) REST API. Zero external dependencies.
+[![Gem Version](https://badge.fury.io/rb/airlinefyi.svg)](https://rubygems.org/gems/airlinefyi)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
+Ruby client for the [AirlineFYI](https://airlinefyi.com) REST API. Airlines, fleets. Zero external dependencies.
+
+> **Explore at [airlinefyi.com](https://airlinefyi.com)** — interactive tools and comprehensive reference.
 
 ## Install
 
@@ -8,7 +13,7 @@ Ruby client for [AirlineFYI](https://airlinefyi.com) REST API. Zero external dep
 gem "airlinefyi"
 ```
 
-## Usage
+## Quick Start
 
 ```ruby
 require "airlinefyi"
@@ -18,14 +23,24 @@ result = client.search("query")
 puts result
 ```
 
+## Also Available
+
+| Platform | Install | Link |
+|----------|---------|------|
+| **Python** | `pip install airlinefyi` | [PyPI](https://pypi.org/project/airlinefyi/) |
+| **npm** | `npm install airlinefyi` | [npm](https://www.npmjs.com/package/airlinefyi) |
+| **Go** | `go get github.com/fyipedia/airlinefyi-go` | [pkg.go.dev](https://pkg.go.dev/github.com/fyipedia/airlinefyi-go) |
+| **Rust** | `cargo add airlinefyi` | [crates.io](https://crates.io/crates/airlinefyi) |
+| **Ruby** | `gem install airlinefyi` | [rubygems](https://rubygems.org/gems/airlinefyi) |
+
+
 ## Links
 
-- **Site**: [https://airlinefyi.com](https://airlinefyi.com)
-- **API**: [https://airlinefyi.com/api/v1/](https://airlinefyi.com/api/v1/)
-- **PyPI**: [pypi.org/project/airlinefyi](https://pypi.org/project/airlinefyi/)
-- **npm**: [npmjs.com/package/airlinefyi](https://www.npmjs.com/package/airlinefyi)
-- **Go**: [pkg.go.dev/github.com/fyipedia/airlinefyi-go](https://pkg.go.dev/github.com/fyipedia/airlinefyi-go)
-- **Rust**: [crates.io/crates/airlinefyi](https://crates.io/crates/airlinefyi)
+- **Site**: [airlinefyi.com](https://airlinefyi.com)
+- **API**: [airlinefyi.com/api/v1/](https://airlinefyi.com/api/v1/)
+- **OpenAPI**: [airlinefyi.com/api/v1/schema/](https://airlinefyi.com/api/v1/schema/)
+
+Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem.
 
 ## License
 
