@@ -39,7 +39,9 @@ puts result
 - **Site**: [airlinefyi.com](https://airlinefyi.com)
 - **API**: [airlinefyi.com/api/v1/](https://airlinefyi.com/api/v1/)
 - **OpenAPI**: [airlinefyi.com/api/v1/schema/](https://airlinefyi.com/api/v1/schema/)
-
+- **Glossary**: [airlinefyi.com/glossary/](https://airlinefyi.com/glossary/)
+- **Guides**: [airlinefyi.com/guides/](https://airlinefyi.com/guides/)
+- **Tools**: [airlinefyi.com/tools/](https://airlinefyi.com/tools/)
 Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem.
 
 ## Transport FYI Family
