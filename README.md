@@ -42,6 +42,17 @@ puts result
 
 Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem.
 
+## Transport FYI Family
+
+Part of the [FYIPedia](https://fyipedia.com) open-source developer tools ecosystem.
+
+| Site | Domain | Focus |
+|------|--------|-------|
+| **AirlineFYI** | [airlinefyi.com](https://airlinefyi.com) | Airlines, fleets, alliances, routes |
+| AirportFYI | [airportfyi.com](https://airportfyi.com) | 4,500+ airports, IATA/ICAO codes, routes |
+| PlaneFYI | [planefyi.com](https://planefyi.com) | Aircraft models, specifications, manufacturers |
+| TrainFYI | [trainfyi.com](https://trainfyi.com) | Railway stations, train routes, rail networks |
+
 ## License
 
 MIT
